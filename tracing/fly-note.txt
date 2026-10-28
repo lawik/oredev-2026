@@ -1,0 +1,2 @@
+fly ssh console -a nerves-hub-devices-production
+PRIVATE_IP=$FLY_PRIVATE_IP bin/nerves_hub remote
